@@ -15,5 +15,5 @@ Checkout my [résumé](https://github.com/jpli02/jpli02/blob/main/resume.pdf) (L
   &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpli0207&layout=compact&theme=gruvbox" height="140px" />
   -->
-</p>
- -->
+<!-- </p> -->
+<!--  --> -->
