@@ -6,5 +6,5 @@ I'm Jianping Li, who is a first-year graduate student in UPenn & GRASP Lab.
 
 - 🔭 I'm interested in Operating system, and I try to make massive system robust and efficient.
 - 🌱 I’m continuously learning advanced C++ programming.
-- 💻 Open source lover: I am working on to [EROFS](https://docs.kernel.org/filesystems/erofs.html).
+- 💻 Open source lover: I am working on [EROFS](https://docs.kernel.org/filesystems/erofs.html).
 
