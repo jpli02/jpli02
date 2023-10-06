@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jianping Li, who is a first-year graduate student in UPenn & GRASP Lab.
+I'm Jianping Li, who is a graduate student in UPenn & GRASP Lab.
 
 <!-- Checkout my [résumé](https://github.com/jpli02/jpli02/blob/main/resume.pdf) (Last updated at 2022/11/09). -->
 
