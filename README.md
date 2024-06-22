@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jianping Li, who is a CS graduate student in UIUC. I was a member of CS at UPenn & GRASP Lab.
+I'm Jianping Li, who is a CS graduate student in UIUC. I was a member of GRASP Lab at UPenn.
 
 <!-- Checkout my [résumé](https://github.com/jpli02/jpli02/blob/main/resume.pdf) (Last updated at 2022/11/09). -->
 
