@@ -2,7 +2,6 @@
 
 I'm Jianping Li, who is a CS graduate student in UIUC. I was a member of GRASP Lab at UPenn.
 
-This summer, I will join Meta as an intern in Menlo Park, CA.
 
 <!-- Checkout my [résumé](https://github.com/jpli02/jpli02/blob/main/resume.pdf) (Last updated at 2022/11/09). -->
 
