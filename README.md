@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-I am Jianping Li, a CS graduate student at UIUC. I am working on LLM agents and systems for LLM.
+I am Jianping Li, a software engineer at Google. I am excited about building AI agents (product x research) for real-world automation.
 
-![Metrics](/github-metrics.svg)
